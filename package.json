@@ -1,0 +1,10 @@
+{
+  "name": "redux_chat_app",
+  "version": "1.0.0",
+  "description": "MERN Stack Application with implementation of Redux with React",
+  "main": "server.js",
+  "repository": "https://github.com/MAbdurahman/redux_chat_app.git",
+  "author": "Mahdi Abdurrahman <mdbdrrhm@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
